@@ -14,7 +14,7 @@
 #   sudo ./verificar_ac1_fase1.sh
 #
 # El informe se guarda en verificacion-academia-base.txt, en la carpeta actual.
-# Escenario completo: 99_Recursos/00_El_Cliente_Boochan_Academy.md
+# Escenario completo: ../00_El_Cliente_Boochan_Academy.md
 #
 # ---------------------------------------------------------------------------
 # ESTE VERIFICADOR NO TE DA EL ARREGLO. A PROPOSITO.

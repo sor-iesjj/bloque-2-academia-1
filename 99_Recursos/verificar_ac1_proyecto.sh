@@ -13,7 +13,7 @@
 #   sudo ./verificar_ac1_proyecto.sh
 #
 # El informe se guarda en verificacion-academia.txt, en la carpeta actual.
-# Escenario y matriz completa: 99_Recursos/00_El_Cliente_Boochan_Academy.md
+# Escenario y matriz completa: ../00_El_Cliente_Boochan_Academy.md
 #
 # ---------------------------------------------------------------------------
 # POR QUE UN SOLO SCRIPT PARA SEIS APARTADOS:
