@@ -29,7 +29,7 @@
 > [!info] 🎓 Por qué el endurecimiento se hace AHORA y no al principio
 > Porque **un servidor se cierra cuando está terminado, no a mitad de obra**. Si cierras puertos mientras todavía estás montando, te pasas el proyecto peleándote con tu propio cortafuegos y sin saber si el problema es él o tú.
 >
-> Es exactamente el orden de la [[Auditoria_Final]] del bloque: primero *"todo funciona"*, después *"solo funciona lo que debe"*.
+> Es exactamente el orden de la [Auditoría Final del Bloque 2](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Auditoria_Final.md) del bloque: primero *"todo funciona"*, después *"solo funciona lo que debe"*.
 
 ---
 

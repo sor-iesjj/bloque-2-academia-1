@@ -34,8 +34,8 @@
 
 > [!info] 📖 Lo que sí tienes a mano, y no es poco
 > - **Las ocho fases enteras.** Vuelve a ellas todas las veces que haga falta: para eso las escribiste tú también, en tus entradas de apuntes.
-> - El [[Diccionario_Comandos_Sistema]], la [[Guía_Errores_y_Resolución]] y la [[Guía_Editor_Nano]].
-> - [[Fase_0.S_Instantaneas_Puntos_de_Control]], que te va a hacer falta más de lo que crees.
+> - El [Diccionario de comandos](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/99_Recursos/Diccionario_Comandos_Sistema.md), la [Guía de errores y resolución](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/99_Recursos/Gu%C3%ADa_Errores_y_Resoluci%C3%B3n.md) y la [Guía del editor nano](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/99_Recursos/Gu%C3%ADa_Editor_Nano.md).
+> - [Instantáneas y puntos de control](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_0.S_Instantaneas_Puntos_de_Control.md), que te va a hacer falta más de lo que crees.
 > - Tus propias entradas de apuntes del bloque. **Si las escribiste bien, hoy valen su peso en oro. Si las rellenaste al final, hoy lo vas a notar.**
 >
 > **Consultar el material no es hacer trampa: es exactamente lo que hace un técnico.** Copiar los valores de Boochan S.L. sin darte cuenta de que aquí son otros, eso sí es un problema — y no te va a funcionar nada.
@@ -131,13 +131,13 @@ Y lo mismo con `Fase 2`, `Fase 3`, `Fase 4`, `Fase 5`, `Fase 6` y `Fase 7`: **si
 >
 > | Apartado | Se evalúa lo mismo que en… | RA |
 > | :--- | :--- | :--- |
-> | Fase 1 | [[Fase_1.1_Que_Se_Evalua]] · [[Fase_2.1_Que_Se_Evalua]] | `RA.01` · `RA.05` |
-> | Fase 2 | [[Fase_4.1_Que_Se_Evalua]] | `RA.03` |
-> | Fase 3 | [[Fase_5.1_Que_Se_Evalua]] | `RA.02` · `RA.03` |
-> | Fase 4 | [[Fase_6.1_Que_Se_Evalua]] | `RA.01` · `RA.04` · `RA.05` |
-> | Fase 5 | [[Fase_7.1_Que_Se_Evalua]] | `RA.04` |
-> | Fase 6 | [[Fase_8.1_Que_Se_Evalua]] | `RA.02` · `RA.04` · `RA.06` |
-> | Fase 7 | [[Auditoria_Final.1_Que_Se_Evalua]] | `RA.05` · `RA.06` |
+> | Fase 1 | [Qué se evalúa · Fase 1](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_1_Infraestructura_Virtual_Local/Fase_1.1_Que_Se_Evalua.md) · [Qué se evalúa · Fase 2](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_2_Purga_y_Preparacion_del_Entorno/Fase_2.1_Que_Se_Evalua.md) | `RA.01` · `RA.05` |
+> | Fase 2 | [Qué se evalúa · Fase 4](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_4_Aprovisionamiento_del_Dominio/Fase_4.1_Que_Se_Evalua.md) | `RA.03` |
+> | Fase 3 | [Qué se evalúa · Fase 5](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_5_Gestion_de_Identidades/Fase_5.1_Que_Se_Evalua.md) | `RA.02` · `RA.03` |
+> | Fase 4 | [Qué se evalúa · Fase 6](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_6_Almacenamiento_Virtual_Cuotas/Fase_6.1_Que_Se_Evalua.md) | `RA.01` · `RA.04` · `RA.05` |
+> | Fase 5 | [Qué se evalúa · Fase 7](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_7_Seguridad_Avanzada_ACL_y_ABE/Fase_7.1_Que_Se_Evalua.md) | `RA.04` |
+> | Fase 6 | [Qué se evalúa · Fase 8](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Fase_8_Integracion_del_Cliente_Windows_11/Fase_8.1_Que_Se_Evalua.md) | `RA.02` · `RA.04` · `RA.06` |
+> | Fase 7 | [Qué se evalúa · Auditoría Final](https://github.com/sor-iesjj/bloque-2-ubuntu-local/blob/main/Fases/Auditoria_Final/Auditoria_Final.1_Que_Se_Evalua.md) | `RA.05` · `RA.06` |
 >
 > **El detalle de cada criterio está en la fase enlazada.** Aquí no se repite: si quieres saber qué te miran en la Fase 5, se mira lo mismo que en la Fase 7 del Bloque 2 — con la diferencia de que ahora nadie te dice cómo.
 
